@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Библиотека</string>
+    <string name="input_name">Введите название книги</string>
+    <string name="text_name">Название книги:</string>
+    <string name="btn_add_book">Добавить книгу</string>
+    <string name="hint_author">Автор книги</string>
+    <string name="text_author">Автор:</string>
+    <string name="text_image">Изображение:</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="btn_add">Добавить книгу</string>
+    <string name="title_add">Добавление книги</string>
+    <string name="upload_img">Загрузить изображение</string>
+    <string name="list">Список</string>
+</resources>
