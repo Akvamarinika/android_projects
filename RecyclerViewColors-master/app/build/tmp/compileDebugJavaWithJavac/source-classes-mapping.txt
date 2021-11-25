@@ -1,0 +1,9 @@
+com/example/recyclerviewcolors/BuildConfig.java
+ com.example.recyclerviewcolors.BuildConfig
+com/example/recyclerviewcolors/MainActivity.java
+ com.example.recyclerviewcolors.MainActivity
+com/example/recyclerviewcolors/ColorViewHolder.java
+ com.example.recyclerviewcolors.ColorViewHolder
+com/example/recyclerviewcolors/ColorAdapter.java
+ com.example.recyclerviewcolors.ColorAdapter
+ com.example.recyclerviewcolors.ColorAdapter$1

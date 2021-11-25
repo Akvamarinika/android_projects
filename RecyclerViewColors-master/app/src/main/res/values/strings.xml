@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewColors</string>
+    <string name="name1">Name</string>
+    <string name="code1">Code</string>
+</resources>
