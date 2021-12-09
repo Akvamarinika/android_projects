@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sqlite</string>
+    <string name="hint_title">Заголовок Заметки</string>
+    <string name="hint_date">Дата:</string>
+    <string name="hint_description">Описание заметки:</string>
+    <string name="one_priority">1</string>
+    <string name="two_priority">2</string>
+    <string name="three_priority">3</string>
+    <string name="btn_add_note">Добавить Заметку</string>
+
+    <!--    для спиннер-->
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
