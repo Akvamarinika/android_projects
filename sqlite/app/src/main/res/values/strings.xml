@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">sqlite</string>
     <string name="hint_title">Заголовок Заметки</string>
-    <string name="hint_date">Дата:</string>
+    <string name="hint_date">Дата: Формат dd-MM-yyyy</string>
     <string name="hint_description">Описание заметки:</string>
     <string name="one_priority">1</string>
     <string name="two_priority">2</string>
