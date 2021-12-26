@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919926067544",
+    "project_id": "fir-minichat",
+    "storage_bucket": "fir-minichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919926067544:android:1700652dd999d434b8d52d",
+        "android_client_info": {
+          "package_name": "com.example.minichatwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919926067544-95kmidvrkobl82pfiul00av5mjj27g9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minichatwithfirebase",
+            "certificate_hash": "985c1b6a8b772399fb77afd7d2250c9ec62d0448"
+          }
+        },
+        {
+          "client_id": "919926067544-mk6sca1dvsrnpdmpsm07icr8ea2ejp77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO2n0-jvDdWQcwA4dOzttKUifjY2ac2_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919926067544-mk6sca1dvsrnpdmpsm07icr8ea2ejp77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniChatWithFirebase</string>
+    <string name="e_mail_hint">Введите Ваш e-mail</string>
+    <string name="password_hint">Введите Ваш пароль</string>
+    <string name="register_btn_text">Зарегистрироваться</string>
+    <string name="have_account_text">У меня уже есть аккаунт</string>
+    <string name="sign_in">Выполнить вход</string>
+    <string name="register">Нет аккаунта. Зарегистрироваться</string>
+    <string name="sign_out">Выйти</string>
+</resources>
