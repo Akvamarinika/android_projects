@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="btn_city_text">Показать ближайшие города</string>
+    <string name="hint_input_km">Введите расстояние в км</string>
+</resources>
